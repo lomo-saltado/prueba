@@ -3,9 +3,8 @@
   "short_name": "prueba",
   "theme_color": "#fff",
   "background_color": "#fff",
-  "display": "minimal-ui",
+  "display": "standalone",
   "orientation": "portrait",
-  "scope": "/",
   "start_url": ".",
   "icons": [
     {
